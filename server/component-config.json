@@ -1,0 +1,5 @@
+{
+  "./components/pub-sub-example": {
+    "path": "/pub-sub-example"
+  }
+}

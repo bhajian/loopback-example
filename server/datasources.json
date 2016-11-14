@@ -1,0 +1,12 @@
+{
+  "mongoDb": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://behnam:123456@localhost:27017/CoffeeshopReview",
+    "database": "CoffeeShopReview",
+    "password": "123456",
+    "name": "mongoDb",
+    "user": "behnam",
+    "connector": "mongodb"
+  }
+}
